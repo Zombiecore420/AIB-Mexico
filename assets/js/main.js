@@ -619,7 +619,7 @@ var DelcoDoc;
 	// Window Load
 	$(window).on('load', function () {
 		// Preloader
-		$('#preloader').delay(500).fadeOut(500);
+		$('#preloader').delay(300).fadeOut(300);
 	});
 
 	// Window Scroll
